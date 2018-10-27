@@ -1,0 +1,1 @@
+https://github.com/ethereum/solidity/blob/v0.4.24/docs/structure-of-a-contract.rst
