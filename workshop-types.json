@@ -1,10 +1,9 @@
 {
-    "title": "Solidity Basic Syntax",
+    "title": "Types",
     "version": "1.0.0",
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-      "title": "Types",
       "lesson": "https://www.youtube.com/watch?v=QdG9xsOolJ4",
       "tool": "https://solidity.readthedocs.io/en/v0.4.24/types.html",
       "info": "./solidity-types.md"
